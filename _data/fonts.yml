@@ -1,0 +1,6 @@
+- name: Dosis
+  type: primary
+  weights:
+  - 400
+  - 700
+  source: Google
